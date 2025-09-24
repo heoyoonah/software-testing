@@ -1,0 +1,12 @@
+# VS Code Java (no-build)
+bin/
+*.class
+*.log
+
+# IDE
+.vscode/*
+!.vscode/settings.json
+
+# OS
+.DS_Store
+Thumbs.db
